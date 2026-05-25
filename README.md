@@ -1,2 +1,4 @@
-# github-expert-course  
-## expert curse Practical GitHub  
+# github-expert-course
+
+## Practical Expert GitHub Course
+
